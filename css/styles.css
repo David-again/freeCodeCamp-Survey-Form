@@ -7,6 +7,7 @@ body {
   background-color: #6565B2;
   text-align: center;
   margin: 0;
+  min-width: 625px;
 }
 
 #description {
